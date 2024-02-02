@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#main{
+ width: 40%;
+}
+#result{
+    width: 40%;
+    margin-top: 30px;
+}
+button{
+    margin-left: 2vw;
+}
+footer{
+    margin-top:66vh;
+}
+
